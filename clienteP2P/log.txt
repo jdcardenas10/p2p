@@ -1,0 +1,7 @@
+Resultados:
+Prueba con 21 clientes
+20181013_161722
+0.0
+Prueba con 23 clientes
+20181013_161804
+0.0
